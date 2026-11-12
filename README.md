@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @brennoms
-- 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning React-native
-- 📫 How to reach me brennoms.dev@gmail.com
+
